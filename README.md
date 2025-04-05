@@ -61,8 +61,9 @@ The design and simulation were carried out in Cadence Virtuoso using the followi
 ---
 
 ## 4. Simulation and Results
-![Image](https://github.com/user-attachments/assets/ec958d4d-f788-4f6b-9f01-bc6982fc708f)
 ![Image](https://github.com/user-attachments/assets/2fad8deb-3a48-4bd2-ba05-0c94b6d94563)
+
+![Image](https://github.com/user-attachments/assets/ec958d4d-f788-4f6b-9f01-bc6982fc708f)
 ![Image](https://github.com/user-attachments/assets/e4688903-3bf0-4db6-ae7e-a9de2cc4168a)
 ###  Write Operation:
 - Bitlines set to the desired value.
